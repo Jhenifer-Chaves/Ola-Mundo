@@ -1,3 +1,3 @@
 # Ola-Mundo
 primeiro 
-epositorio versionato
+repositorio versionato
